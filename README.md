@@ -15,6 +15,7 @@ pnpm dev
 If it can't be run then try this:
  ```bash
  cd ristek-web
+ ```
  
  then try to run again
 
@@ -31,7 +32,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## dependencies
 To make this website, i use these dependencied.
-*[Next.js] (https://nextjs.org/)
+*[Next.js](https://nextjs.org/)
 *[Firebase](https://firebase.google.com/)
 *[Tailwind](https://tailwindcss.com/)
 *[Typescript](https://www.typescriptlang.org/)
