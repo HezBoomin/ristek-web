@@ -12,6 +12,12 @@ yarn dev
 pnpm dev
 ```
 
+If it can't be run then try this:
+ ```bash
+ cd ristek-web
+ 
+ then try to run again
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
@@ -22,17 +28,14 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## dependencies
+To make this website, i use these dependencied.
+*[Next.js] (https://nextjs.org/)
+*[Firebase](https://firebase.google.com/)
+*[Tailwind](https://tailwindcss.com/)
+*[Typescript](https://www.typescriptlang.org/)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Notes
+I make this website as a task for ristek Web-Dev recruitment. I know this website is far from perfect, but i'm learning everyday especially from project like this. i can learn new stuff on something that i'm really into. Even if i don't get accepted i will learn from now and than and make my own project. If you have any feedback regarding this website or you just want to say hi to me, you can contact me at hezekial7778@gmail.com or [Instagram](https://www.instagram.com/notkiel._/). Thank you for checking my respitory
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
