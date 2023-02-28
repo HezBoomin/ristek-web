@@ -32,10 +32,10 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## dependencies
 To make this website, i use these dependencied.
-*[Next.js](https://nextjs.org/)
-*[Firebase](https://firebase.google.com/)
-*[Tailwind](https://tailwindcss.com/)
-*[Typescript](https://www.typescriptlang.org/)
+* [Next.js](https://nextjs.org/)
+* [Firebase](https://firebase.google.com/)
+* [Tailwind](https://tailwindcss.com/)
+* [Typescript](https://www.typescriptlang.org/)
 
 ## Notes
 I make this website as a task for ristek Web-Dev recruitment. I know this website is far from perfect, but i'm learning everyday especially from project like this. i can learn new stuff on something that i'm really into. Even if i don't get accepted i will learn from now and than and make my own project. If you have any feedback regarding this website or you just want to say hi to me, you can contact me at hezekial7778@gmail.com or [Instagram](https://www.instagram.com/notkiel._/). Thank you for checking my respitory
